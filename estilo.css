@@ -1,0 +1,109 @@
+.encabezado{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.menu{
+    display: flex;
+    list-style-type: none;
+    white-space: nowrap;
+}
+.menu li{
+    margin-right: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+
+}
+.todo{
+    margin: 0px;
+    padding: 0px;
+}
+.contenedor{
+    background-image: url(banner.jpg);
+    height: 700px;
+    padding-left: 70px;
+    margin-top: 0px;
+
+}
+.contenedor h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 45px;
+    padding-top: 170px;
+    
+    
+}
+.contenedor p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-right: 80%;
+}
+.botones button
+{
+    margin-right: 30px;
+}
+.boton1{
+    background-color: #9bf00b;
+    color: green;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+    
+}
+.boton2{
+    background-color: black;
+    color: #9bf00b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.redes{
+    display: flex;
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inferior{
+    background-color: #F2F2F2;
+    display: flex;
+    padding-left: 28px;
+
+}
+.lista1{
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    padding-top: 0px;
+}
+.lista2
+{
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+.menufinal{
+    display: flex;
+    white-space: nowrap;
+    list-style-type:none ;
+    background-color: #F2F2F2;
+    height: 120px;
+    margin-top: 0px;
+    padding-left: 70%;
+    padding-top: 60px;
+}
+.menufinal li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-right: 1rem;
+    height: max-content;
+}
